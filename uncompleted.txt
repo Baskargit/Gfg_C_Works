@@ -1,0 +1,13 @@
+============================================> Events <=====================================
+
+1). 100 Problems Solved on Jul-17-2018
+2). 200 
+
+
+===========================================> Unsolved Problems <=====================================
+
+1 -> gfg_perfect_array.c
+
+2 -> gfg_split_str.c (School)
+link : https://practice.geeksforgeeks.org/problems/split-the-string/0
+
