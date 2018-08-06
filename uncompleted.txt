@@ -8,6 +8,9 @@
 
 1 -> gfg_perfect_array.c
 
-2 -> gfg_split_str.c (School)
+2 -> gfg_split_str.c (School) 
 link : https://practice.geeksforgeeks.org/problems/split-the-string/0
+    level : School
+    solved : On 20th Jul 2018
+
 
