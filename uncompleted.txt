@@ -1,4 +1,4 @@
-============================================> Events <=====================================
+============================================> Events <===============================================
 
 1). 100 Problems Solved on Jul-17-2018
 2). 200 
@@ -8,9 +8,16 @@
 
 1 -> gfg_perfect_array.c
 
-2 -> gfg_split_str.c (School) 
+2 -> gfg_split_str.c
 link : https://practice.geeksforgeeks.org/problems/split-the-string/0
-    level : School
-    solved : On 20th Jul 2018
+    Level  : School
+    Reason : 0
+    Solved : On 20th Jul 2018
+
+3 -> gfg_sum_palindrome.c
+link : https://practice.geeksforgeeks.org/problems/sum-palindrome/0
+    Level  : School
+    Reason : Problem Statement Misleading
+    Solved : -
 
 

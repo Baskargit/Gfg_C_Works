@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #define max_length 100
-/*
+
 int main()
 {
     int numberOfStrings = 0;
@@ -48,7 +48,7 @@ int main()
 
     return 0;
 }
-*/
+
 
 /*
 int main()
